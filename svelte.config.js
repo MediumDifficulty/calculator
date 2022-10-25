@@ -7,5 +7,5 @@ export default {
     preprocess({
       postcss: true,
     }),
-  ],
+  ]
 }
